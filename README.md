@@ -21,6 +21,7 @@ Electronics) pada permainan Cyberpunk 2077. Komponen pada permainan ini antara l
 2. Matriks – terdiri atas token-token yang akan dipilih untuk menyusun urutan kode.
 3. Sekuens – sebuah rangkaian token (dua atau lebih) yang harus dicocokkan.
 4. Buffer – jumlah maksimal token yang dapat disusun secara sekuensial.
+
 Aturan permainan Breach Protocol antara lain:
 1. Pemain bergerak dengan pola horizontal, vertikal, horizontal, vertikal (bergantian) hingga
 semua sekuens berhasil dicocokkan atau buffer penuh.
