@@ -66,7 +66,7 @@ npm run dev
 
 4. run the backend (use other terminal)  :
 ```shell
-cd src
+cd src/src
 go mod tidy
 cd api
 go run main.go
